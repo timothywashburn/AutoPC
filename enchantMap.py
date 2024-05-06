@@ -168,7 +168,7 @@ enchants = {
         "display": "speedy kill"
     },
     "bow_slow": {
-        "refs": [],
+        "refs": ["drain"],
         "display": "sprint drain"
     },
     "gold_per_hit": {
